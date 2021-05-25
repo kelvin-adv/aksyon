@@ -11,6 +11,6 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-        ftp-server: ftp.advisclient.com.au:21/
+        ftp-server: ftp.advisclient.com.au
         ftp-username: aksyon@advisclient.com.au
         ftp-password: w3CKsXKxA777
